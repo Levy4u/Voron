@@ -1,4 +1,4 @@
-Voron 2.4 Mandala Rose Works Kinematic Bed Lock
+## Voron 2.4 Mandala Rose Works Kinematic Bed Lock
 
 Currently only designed for 350mm variant.
 
@@ -8,7 +8,9 @@ So I created this to hold the bed on each side for easy tipping of the Voron for
 
 Tip: You can losen the bolt and swivel to the locks to the side. They are low profile enough to stay out of the way.
 
-BOM  
+I've included the fusion 360 file. Feel free to modify/improve.
+
+#### BOM  
 2x bed lock  
 2x M5 x 10mm bolt  
 2x M5 t-nuts  
