@@ -1,4 +1,4 @@
-## Voron 2.4 Mandala Rose Works Kinematic Bed Lock
+## Voron 2.4 Mandala Rose Works Kinematic Bed Mount Lock
 
 Currently only designed for 350mm variant.
 
