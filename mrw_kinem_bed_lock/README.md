@@ -6,7 +6,6 @@ This mod is to be used if you have the Mandala Rose Works Kinematic Bed system. 
 
 So I created this to hold the bed on each side for easy tipping of the Voron for service.
 
-Tip: You can losen the bolt and swivel to the locks to the side. They are low profile enough to stay out of the way.
 
 I've included the fusion 360 file. Feel free to modify/improve.
 
